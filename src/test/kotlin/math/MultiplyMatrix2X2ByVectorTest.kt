@@ -1,5 +1,7 @@
-import ge.nika.Matrix2X2
-import ge.nika.Vector2D
+package math
+
+import ge.nika.math.Matrix2X2
+import ge.nika.math.Vector2D
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

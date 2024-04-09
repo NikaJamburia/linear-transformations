@@ -1,4 +1,4 @@
-package ge.nika
+package ge.nika.math
 
 data class Matrix2X2(
     val topLeft: Double,
